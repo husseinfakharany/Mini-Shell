@@ -1,0 +1,4 @@
+#
+# Tester la gestion des redirections simultanées
+#
+cat < abc.txt > copyAbc.txt

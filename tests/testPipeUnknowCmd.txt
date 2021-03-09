@@ -1,0 +1,4 @@
+#
+# Exécuter une succession de commandes dont une commande inconnu
+#
+grep txt | azer | tail -1 | cat

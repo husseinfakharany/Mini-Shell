@@ -1,0 +1,8 @@
+#
+# Tester les differents commandes simple
+#
+ls
+echo
+ls
+echo
+ps

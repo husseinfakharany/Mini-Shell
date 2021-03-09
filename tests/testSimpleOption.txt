@@ -1,0 +1,6 @@
+#
+# Tester les options
+#
+ls -l
+ls -i
+ls -d

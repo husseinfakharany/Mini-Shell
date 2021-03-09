@@ -1,0 +1,7 @@
+#
+# Tester la gestion du background
+#
+ls
+sleep 15 &
+ps
+ls

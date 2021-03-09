@@ -1,0 +1,5 @@
+#
+# Exécuter une succession de commandes avec comme input un fichier inexistant
+#
+grep k | sort | tail -1 | cat < abc.txt > resabc.txt
+grep k < abc.txt | sort | tail -1 | cat  > resabc.txt

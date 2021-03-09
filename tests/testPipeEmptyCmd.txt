@@ -1,0 +1,4 @@
+#
+# Exécuter une succession de commandes avec une commande inconnu
+#
+grep txt | lkszq | tail -1 | cat

@@ -1,0 +1,5 @@
+#
+# Exécuter une succession de commandes avec/sans argument
+#
+ls | grep txt | sort | tail -1 | cat
+ls | grep -v a | tail -1 | cat | head -2 

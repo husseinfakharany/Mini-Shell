@@ -1,0 +1,4 @@
+#
+# test redirection en entrée invalide
+#
+cat < yapa

@@ -1,0 +1,4 @@
+#
+# Exécuter une succession de commandes avec quit au milieu
+#
+grep txt | quit | tail -1 | cat

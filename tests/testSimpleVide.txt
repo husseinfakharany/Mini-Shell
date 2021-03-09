@@ -1,0 +1,4 @@
+#
+# Tester comande vide
+#
+

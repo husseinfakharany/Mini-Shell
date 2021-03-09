@@ -1,0 +1,4 @@
+#
+# Tester le redirection en entrée
+#
+cat < abc.txt

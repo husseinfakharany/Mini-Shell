@@ -1,0 +1,4 @@
+#
+# Tester les options, les pipes et une redirection en sortie
+#
+ls -l | wc -l > nbFile.txt

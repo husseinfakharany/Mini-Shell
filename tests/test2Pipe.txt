@@ -1,0 +1,5 @@
+#
+# Exécuter une succession de commandes avec/sans argument
+#
+ls | grep txt
+ls -l | wc -l

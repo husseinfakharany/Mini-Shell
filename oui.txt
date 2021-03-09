@@ -1,0 +1,10 @@
+total 92
+-rwxrwxrwx 1 yargon yargon   484 Feb 15  2018 Makefile
+-rwxrwxrwx 1 yargon yargon     0 Feb 22 10:20 cat
+-r-xr-xr-x 1 yargon yargon     6 Feb 22 10:33 noPerm.txt
+-rwxrwxrwx 1 yargon yargon   395 Feb 22 10:19 oui.txt
+-rwxrwxrwx 1 yargon yargon  5143 Feb 15  2018 sdriver.pl
+-rwxrwxrwx 1 yargon yargon 69672 Feb 22 10:26 shell
+drwxrwxrwx 1 yargon yargon  4096 Feb 22 10:26 src
+drwxrwxrwx 1 yargon yargon  4096 Feb 22 08:28 tests
+-rwxrwxrwx 1 yargon yargon 11834 Feb 22 08:08 tp4-fichiers.tar.gz

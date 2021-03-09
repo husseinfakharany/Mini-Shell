@@ -1,0 +1,4 @@
+#
+# Tester la redirection avec un fichier inconnu en entrée
+#
+cat < udqzd

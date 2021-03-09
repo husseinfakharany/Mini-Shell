@@ -1,0 +1,4 @@
+#
+# Exécuter une succession de commandes avec comme input un fichier inexistant
+#
+grep txt | sort | tail -1 | cat < inconnu
